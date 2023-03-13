@@ -1,0 +1,4 @@
+Order{, orderDate = 20/iunie/2022 20:37:12, orderID = 1}
+MenuItem{title='Charred Padrón Chiles and Squid Salad', rating=5.0, calories=224, proteins=11, fats=16, sodium=156, price=25}
+MenuItem{title='Green Bean and Roasted Tomato Salad', rating=3.75, calories=115, proteins=3, fats=7, sodium=20, price=57}
+MenuItem{title='Roasted Beets with Parsley', rating=3.75, calories=99, proteins=3, fats=3, sodium=134, price=38}
